@@ -1,7 +1,10 @@
+import { ChakraProvider } from '@chakra-ui/react'
 import './App.css'
 import Dashboard from './Components/DashBoard/Dashboard'
 import Login from './Components/Login/Login'
 import Register from './Components/Register/Register'
+import MettingPage from './pages/MettingPage'
+
 
 import {
   createBrowserRouter,
@@ -20,17 +23,20 @@ const router = createBrowserRouter([
   {
     path: '/dashboard',
     element: <div><Dashboard/></div>
+  },
+  {
+    path: '/metting',
+    element: <div><MettingPage/></div>
   }
 ])
 
 function App() {
   
-
-  return (
-  <div>
-    <RouterProvider router = {router}/>
-  </div>
-  )
+    return (
+      <ChakraProvider>
+        <RouterProvider router = {router}/>
+      </ChakraProvider>
+    )
 }
 
 export default App
