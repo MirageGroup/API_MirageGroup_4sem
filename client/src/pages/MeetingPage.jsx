@@ -4,10 +4,11 @@ import { Box,
 } from '@chakra-ui/react'
 
 import { BellIcon, SearchIcon} from '@chakra-ui/icons'
-import MettingComponent from "../Components/Mettings/Metting"
+import MettingComponent from "../Components/Meetings/Meeting"
 
 
-const MettingPage = () => {
+
+const MeetingPage = () => {
     return (
     <Box>
         <Box position="relative" w="100%" display="flex" flexDir="column" >
@@ -23,12 +24,12 @@ const MettingPage = () => {
             <Box position="absolute" left="40%" top="4rem" w="20%"> 
                 <Input type="date" variant='filled' placeholder='Filled' />
             </Box>
-            <Box position="absolute" right="10%" top="2rem">
+            <Box position="absolute" right="10rem" top="2rem">
                 <Button colorScheme='yellow' variant='solid'>
                     <BellIcon/>
                 </Button>
             </Box>
-            <Box position="absolute" right="5%" top="2rem" >
+            <Box position="absolute" right="5rem" top="2rem" >
             <Button colorScheme='yellow' variant='solid'>
             <WrapItem>  
                 <Avatar size='sm' name='Kent Dodds' src='https://bit.ly/kent-c-dodds' />{' '}
@@ -65,4 +66,4 @@ const MettingPage = () => {
     )
 }
 
-export default MettingPage;
+export default MeetingPage;
