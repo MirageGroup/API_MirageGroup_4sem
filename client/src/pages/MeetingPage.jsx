@@ -4,7 +4,7 @@ import { Box,
 } from '@chakra-ui/react'
 
 import { BellIcon, SearchIcon} from '@chakra-ui/icons'
-import MettingComponent from "../Components/Meetings/Meeting"
+import MeetingComponent from "../Components/Meetings/Meeting"
 
 
 
@@ -51,7 +51,7 @@ const MeetingPage = () => {
         
                         <TabPanels>
                             <TabPanel bg="f1f1f1">
-                                <p><MettingComponent/></p>
+                                <p><MeetingComponent/></p>
                             </TabPanel>
                             <TabPanel>
                                 <p>two!</p>

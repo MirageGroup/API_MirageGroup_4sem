@@ -3,7 +3,7 @@ import './App.css'
 import Dashboard from './Components/DashBoard/Dashboard'
 import Login from './Components/Login/Login'
 import Register from './Components/Register/Register'
-import MettingPage from './pages/MettingPage'
+import MeetingPage from './pages/MeetingPage'
 
 
 import {
@@ -25,8 +25,8 @@ const router = createBrowserRouter([
     element: <div><Dashboard/></div>
   },
   {
-    path: '/metting',
-    element: <div><MettingPage/></div>
+    path: '/meeting',
+    element: <div><MeetingPage/></div>
   }
 ])
 

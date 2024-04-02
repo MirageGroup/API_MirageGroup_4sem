@@ -23,7 +23,7 @@ const MeetingComponent = () => {
                 <Text>exemplo</Text>
             </Box>
             <Menu closeOnSelect={false}>
-            <MenuButton height="60%" w="40%" alignItems="center" as={Button} colorScheme='yellow'>
+            <MenuButton minWidth="100px" height="60%" alignItems="center" as={Button} colorScheme='yellow'>
                 menu
             </MenuButton>
             <MenuList minWidth='100px'>
