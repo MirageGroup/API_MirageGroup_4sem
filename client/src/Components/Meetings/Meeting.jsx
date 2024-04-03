@@ -1,6 +1,7 @@
 import { Box, Grid, Text, Button } from "@chakra-ui/react"
 import { StarIcon, Icon} from "@chakra-ui/icons"
-import { AiOutlineTeam } from "react-icons/ai";
+import { AiOutlineTeam, AiOutlineSliders, AiOutlinePlus  } from "react-icons/ai";
+import { Progress } from '@chakra-ui/react'
 import {
     Menu,
     MenuButton,
@@ -14,17 +15,19 @@ import {
 
 const MeetingComponent = () => {
     return(
-        <Box alignItems="center" p="2%" bg="lightgray">
-            <Grid alignItems="center" templateColumns='repeat(4, 1fr)' >
-            <Box paddingRight="40rem" display="flex" flexDir="Row" gap="30%" w="100%">
-                <Button w="20%" bg="lightyellow" border="solid 1px" borderRadius="1rem" colorScheme="yellow"><StarIcon border="grey"/></Button>   
+        <Box alignItems="center" p="2%" bg="rgb(101, 110, 110, 0.3)" >
+            <Box opacity="1">
+            <Grid alignItems="center" templateColumns='repeat(5, 1fr)' >
+            <Box alignItems="center" paddingRight="40rem" display="flex" flexDir="Row" gap="30%" w="100%">
+                <Button w="20%" borderRadius="1rem"><StarIcon border="grey"/></Button>   
             <Box>
                 <Text>EXEMPLO DE SALA</Text>
-                <Text>exemplo</Text>
+                <Text>data</Text>
             </Box>
             <Menu closeOnSelect={false}>
-            <MenuButton minWidth="100px" height="60%" alignItems="center" as={Button} colorScheme='yellow'>
+            <MenuButton display="flex" flexDir="row" minWidth="100px" alignItems="center" as={Button} colorScheme='gray' border="black 1px solid">
                 menu
+
             </MenuButton>
             <MenuList minWidth='100px'>
                 <MenuOptionGroup defaultValue='asc' type='radio'>
@@ -34,10 +37,12 @@ const MeetingComponent = () => {
             </MenuList>
             </Menu>
             </Box>
-            <Button w="30%" bg="Gainsboro" border="grey solid 1px" borderRadius="1rem" colorScheme="yellow"><AiOutlineTeam /></Button>
-            <Button w="30%" bg="Gainsboro" border="grey solid 1px" borderRadius="1rem" colorScheme="yellow"><StarIcon border="grey"/></Button>
-            <Button w="30%" bg="Gainsboro" border="grey solid 1px" borderRadius="1rem" colorScheme="yellow"><StarIcon border="grey"/></Button>
+            <Button w="50%" bg="Gainsboro" border="grey solid 1px" borderRadius="1rem" colorScheme="yellow"><AiOutlineTeam /></Button>
+            <Button w="50%" bg="Gainsboro" border="grey solid 1px" borderRadius="1rem" colorScheme="yellow"><AiOutlineSliders /></Button>
+            <Progress w="60px" value={30} colorScheme='blue' />
+            <Button w="50%"  border="grey solid 1px" borderRadius="1rem" colorScheme="yellow"><AiOutlinePlus /></Button>
             </Grid>
+            </Box>
         </Box>
     )
 }

@@ -24,12 +24,12 @@ const MeetingPage = () => {
             <Box position="absolute" left="40%" top="4rem" w="20%"> 
                 <Input type="date" variant='filled' placeholder='Filled' />
             </Box>
-            <Box position="absolute" right="10rem" top="2rem">
+            <Box position="absolute" right="10rem" top="4rem">
                 <Button colorScheme='yellow' variant='solid'>
                     <BellIcon/>
                 </Button>
             </Box>
-            <Box position="absolute" right="5rem" top="2rem" >
+            <Box position="absolute" right="5rem" top="4rem" >
             <Button colorScheme='yellow' variant='solid'>
             <WrapItem>  
                 <Avatar size='sm' name='Kent Dodds' src='https://bit.ly/kent-c-dodds' />{' '}
