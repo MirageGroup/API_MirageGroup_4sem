@@ -39,7 +39,7 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 | Sprint| Tag | Lançamento | Status | Histórico |
 |:-----:|:-------------:|:----------:|:---------:|:---------:|
 | 01 | [sprint-01]() | 14/04/2024 | Entregue | [ver relatório] |
-| 02 | [sprint-02]() | 05/05/2024 | Em Desenvolvimento | [ver relatório] |
+| 02 | [sprint-02]() | 05/05/2024 | Entregue | [ver relatório] |
 | 03 | [sprint-03]() | 26/05/2024 | Não Iniciada | [ver relatório] |
 | 04 | [sprint-04]() | 16/06/2024 | Não Iniciada | [ver relatório] |
 
@@ -94,8 +94,8 @@ front-end: npm start | back-end: npm run dev
 <span id="user-content-planejamento">
 <h2 align="center" dir="auto"><a id="user-content-busts_in_silhouette-planejamento-de-classes" class="anchor" aria-hidden="true" href="#busts_in_silhouette-planejamento-de-classes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8">📆</g-emoji> Planejamento</h2>
 
+![BacklogMirage](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/cf707470-6f6b-47bb-a7de-5cc50e9f2afb)
 
-![PlanejamentoDasSprints](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/93b5f89c-1cd6-44db-b1d0-2f686d232eb6)
 
 <!--
 <p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
