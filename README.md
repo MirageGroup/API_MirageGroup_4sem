@@ -33,6 +33,21 @@
 </section>
 
 <div align="center" dir="auto">
+
+<h2> Desafio do Projeto </h2>
+
+“A medida que lidamos com equipes cada vez maiores, no contexto pós-pandemia, a coordenação e o agendamento de reuniões tornam-se cada vez um problema complexo. Em particular, nos vemos em um momento onde reuniões precisam ser agendadas levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades. Assim, o desafio proposto envolve o desenvolvimento de um portal capaz de centralizar informações de diferentes fontes a fim de manter um banco de dados atualizado capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade, tanto durante o agendamento quanto durante a preparação da reunião, apresentando inclusive um formulário pré-preenchido para as atas.”
+
+<span id="user-empresa">
+<h2 align="center" dir="auto"><a id="user-content-busts_in_silhouette-empresa-de-classes" class="anchor" aria-hidden="true" href="#busts_in_silhouette-empresa-de-classes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8"></g-emoji> Empresa Parceira</h2>
+
+![siattLogo](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/cdc6a24c-b37d-43ff-8b83-bd7ac0df3f35)
+
+<p dir="auto">A SIATT – Engenharia, Indústria e Comércio LTDA., fundada em 2015, é composta de uma equipe multidisciplinar com experiência no mercado de Defesa e Aeroespacial. Além de desenvolver novos projetos no setor, a empresa inova e aprimora a gestão do conhecimento com vistas à excelência tecnológica e operacional de seus produtos.
+
+<p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
+
+  
 <h2> Entregas de Sprints</h2>
 
 Cada entrega foi realizada a partir da criação de uma **tag**. Observe a relação a seguir:
@@ -40,7 +55,7 @@ Cada entrega foi realizada a partir da criação de uma **tag**. Observe a rela�
 |:-----:|:-------------:|:----------:|:---------:|:---------:|
 | 01 | [sprint-01]() | 14/04/2024 | Entregue | [ver relatório] |
 | 02 | [sprint-02]() | 05/05/2024 | Entregue | [ver relatório] |
-| 03 | [sprint-03]() | 26/05/2024 | Não Iniciada | [ver relatório] |
+| 03 | [sprint-03]() | 26/05/2024 | Em andamento | [ver relatório] |
 | 04 | [sprint-04]() | 16/06/2024 | Não Iniciada | [ver relatório] |
 
 
@@ -65,21 +80,13 @@ front-end: npm start | back-end: npm run dev
 
 <br>
 
-<span id="user-empresa">
-<h2 align="center" dir="auto"><a id="user-content-busts_in_silhouette-empresa-de-classes" class="anchor" aria-hidden="true" href="#busts_in_silhouette-empresa-de-classes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png?v8"></g-emoji> Empresa Parceira</h2>
-
-![siattLogo](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/cdc6a24c-b37d-43ff-8b83-bd7ac0df3f35)
-
-<p dir="auto">A SIATT – Engenharia, Indústria e Comércio LTDA., fundada em 2015, é composta de uma equipe multidisciplinar com experiência no mercado de Defesa e Aeroespacial. Além de desenvolver novos projetos no setor, a empresa inova e aprimora a gestão do conhecimento com vistas à excelência tecnológica e operacional de seus produtos.
-
-<p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
-
+<!---
 <span id="user-content-desafios-do-projeto">
 <h2 align="center" dir="auto"><a id="user-content-dart-desafios-do-projeto" class="anchor" aria-hidden="true" href="#dart-desafios-do-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji> Desafios do Projeto</h2>
 
 <br>
 ![Desafio do Projeto](https://github.com/MirageGroup/API_MirageGroup_4sem/assets/112117985/82b771a2-7195-44c2-b6d1-f92169d4c1a0)
-
+-->
 
 <p dir="auto">→ <a href="#topo">Voltar ao topo</a></p>
 <span id="user-content-levantamento">
@@ -134,11 +141,16 @@ front-end: npm start | back-end: npm run dev
 | :----------: | :----------------------- | :--------------------------------------------: | :--------------------------------------------: |
 | Scrum Master | Gustavo Henrique Pereira |    [GitHub](https://github.com/gustavohpereira)| [Linkedin](https://www.linkedin.com/in/gustavohpa/) |
 |      PO      | Luís Antonio Cardoso     |    [GitHub](https://github.com/LuisSCardoso)   | [Linkedin](https://www.linkedin.com/in/luis-antonio-souza-cardoso-3928b51a0/) |
-|   Dev Team   | Hugo Henrique da Silva   |    [GitHub](https://github.com/Hugohs98)       | [Linkedin](https://www.linkedin.com/in/hugohsilva/)|
+<!--|   Dev Team   | Hugo Henrique da Silva   |    [GitHub](https://github.com/Hugohs98)       | [Linkedin](https://www.linkedin.com/in/hugohsilva/)|-->
 |   Dev Team   | Gustavo Alves dos Santos |    [GitHub](https://github.com/ogustavoalves)  | [Linkedin](https://www.linkedin.com/in/gustavo-alves-073640248/) |
 |   Dev Team   | Victor Guilherme Branco  |    [GitHub](https://github.com/VictorGuui)     | [Linkedin](https://www.linkedin.com/in/victor-branco-323386190/)|
 |   Dev Team   | Pedro Henrique Pucci     |    [GitHub](https://github.com/pedro11pucci)   | [Linkedin](https://www.linkedin.com/in/pedro-p-122962234/)|
 |   Dev Team   | Vinicius Henrique        |    [GitHub](https://github.com/vinicius123henrique321) | [Linkedin](https://www.linkedin.com/in/vinicius-henrique-1a016524a/)|
+|   Dev Team   | Gisele Reis              |    [GitHub](https://github.com/gisele-reis) | [Linkedin](https://www.linkedin.com/in/giselealvesreis/)|
+|   Dev Team   | Jacqueline Bezerra       |    [GitHub](https://github.com/jxqlnm) | [Linkedin](https://www.linkedin.com/in/jacqueline-mariane/)|
+|   Dev Team   | Caio Yokoyama            |    [GitHub](https://github.com/Caboia) | [Linkedin](https://www.linkedin.com/in/caioyokoyama/)|
+
+
 </div>
 
 
