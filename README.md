@@ -141,7 +141,6 @@ front-end: npm start | back-end: npm run dev
 | :----------: | :----------------------- | :--------------------------------------------: | :--------------------------------------------: |
 | Scrum Master | Gustavo Henrique Pereira |    [GitHub](https://github.com/gustavohpereira)| [Linkedin](https://www.linkedin.com/in/gustavohpa/) |
 |      PO      | Luís Antonio Cardoso     |    [GitHub](https://github.com/LuisSCardoso)   | [Linkedin](https://www.linkedin.com/in/luis-antonio-souza-cardoso-3928b51a0/) |
-<!--|   Dev Team   | Hugo Henrique da Silva   |    [GitHub](https://github.com/Hugohs98)       | [Linkedin](https://www.linkedin.com/in/hugohsilva/)|-->
 |   Dev Team   | Gustavo Alves dos Santos |    [GitHub](https://github.com/ogustavoalves)  | [Linkedin](https://www.linkedin.com/in/gustavo-alves-073640248/) |
 |   Dev Team   | Victor Guilherme Branco  |    [GitHub](https://github.com/VictorGuui)     | [Linkedin](https://www.linkedin.com/in/victor-branco-323386190/)|
 |   Dev Team   | Pedro Henrique Pucci     |    [GitHub](https://github.com/pedro11pucci)   | [Linkedin](https://www.linkedin.com/in/pedro-p-122962234/)|
