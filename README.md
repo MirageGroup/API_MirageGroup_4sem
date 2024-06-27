@@ -53,10 +53,10 @@
 Cada entrega foi realizada a partir da criação de uma **tag**. Observe a relação a seguir:
 | Sprint| Tag | Lançamento | Status | Histórico |
 |:-----:|:-------------:|:----------:|:---------:|:---------:|
-| 01 | [sprint-01]() | 14/04/2024 | Entregue | [ver relatório] |
-| 02 | [sprint-02]() | 05/05/2024 | Entregue | [ver relatório] |
-| 03 | [sprint-03]() | 26/05/2024 | Em andamento | [ver relatório] |
-| 04 | [sprint-04]() | 16/06/2024 | Não Iniciada | [ver relatório] |
+| 01 | [sprint-01]() | 14/04/2024 | Entregue | 
+| 02 | [sprint-02]() | 05/05/2024 | Entregue | 
+| 03 | [sprint-03]() | 26/05/2024 | Entregue | 
+| 04 | [sprint-04]() | 16/06/2024 | Entregue |
 
 
 <div align="center" dir="auto">
@@ -142,7 +142,7 @@ front-end: npm start | back-end: npm run dev
 | Scrum Master | Gustavo Henrique Pereira |    [GitHub](https://github.com/gustavohpereira)| [Linkedin](https://www.linkedin.com/in/gustavohpa/) |
 |      PO      | Luís Antonio Cardoso     |    [GitHub](https://github.com/LuisSCardoso)   | [Linkedin](https://www.linkedin.com/in/luis-antonio-souza-cardoso-3928b51a0/) |
 |   Dev Team   | Gustavo Alves dos Santos |    [GitHub](https://github.com/ogustavoalves)  | [Linkedin](https://www.linkedin.com/in/gustavo-alves-073640248/) |
-|   Dev Team   | Victor Guilherme Branco  |    [GitHub](https://github.com/VictorGuui)     | [Linkedin](https://www.linkedin.com/in/victor-branco-323386190/)|
+|   Dev Team   | Victor Guilherme Branco  |    [GitHub](https://github.com/VictorGuui)     | [Linkedin](https://www.linkedin.com/in/victor-guilherme-branco-portela-323386190/)|
 |   Dev Team   | Pedro Henrique Pucci     |    [GitHub](https://github.com/pedro11pucci)   | [Linkedin](https://www.linkedin.com/in/pedro-p-122962234/)|
 |   Dev Team   | Vinicius Henrique        |    [GitHub](https://github.com/vinicius123henrique321) | [Linkedin](https://www.linkedin.com/in/vinicius-henrique-1a016524a/)|
 |   Dev Team   | Gisele Reis              |    [GitHub](https://github.com/gisele-reis) | [Linkedin](https://www.linkedin.com/in/giselealvesreis/)|
